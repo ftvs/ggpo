@@ -27,6 +27,9 @@ vectorwar.exe  <localport>  <num players> ('local' | <remote ip>:<remote port>) 
 
 See the .cmd files in the bin directory for examples on how to start 2, 3, and 4 player games.
 
+## Documentation
+The `doc/` [folder](doc) contains [general information](doc/README.md) and the [development guide](doc/DevelopmentGuide.md).
+
 ## Licensing
 GGPO is available under The MIT License. This means GGPO is free for commercial and non-commercial use. Attribution is not required, but appreciated. 
 
